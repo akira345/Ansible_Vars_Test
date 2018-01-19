@@ -1,0 +1,8 @@
+---
+- name: task1
+  debug: var=task1_var
+- name: common_var
+  debug: var=common_var
+- name: task2
+  debug: var=task2_var
+
